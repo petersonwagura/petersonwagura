@@ -57,7 +57,15 @@ Welcome to my data analysis portfolio! I'm a data analyst skilled in **SQL**, **
 - Delivered a story-driven Power BI dashboard  
 📊 [View Dashboard Screenshot](./Supermarket_Sales/dashboard.png)
 
+-## 📫 Let’s Connect
+
+I'm always open to collaboration, freelancing, or full-time roles in data analytics and business intelligence.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 your.email@example.com
+
 ---
 
-## 🧰 Folder Structure
+⭐ If you find this portfolio helpful, feel free to star the repo or reach out!
+
 
